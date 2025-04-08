@@ -5,5 +5,5 @@
 ### Legajo: 220-804.0
 ## Datos de la cursada
 ### Curso: K2002
-### Año:2025
+### Año: 2025
 ### Modalidad: Anual
